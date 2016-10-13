@@ -1749,7 +1749,7 @@ div.tooltiptext.bigtooltip {
 .cm-s-ipython.CodeMirror {
  font-family: "Droid Sans Mono", monospace;
  font-size: 11pt;
- background: #efefef;
+ background: #D8F0D3;
  color: #303030;
  border-radius: 2px;
  font-style: normal;
@@ -1815,7 +1815,7 @@ div.tooltiptext.bigtooltip {
  font-weight: normal;
 }
 .cm-s-ipython span.cm-error {
- background: rgba(191,97,106,.40);
+/* background: rgba(191,97,106,.40); */
 }
 .cm-s-ipython span.cm-tag {
  color: #e22978;
