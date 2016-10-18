@@ -1882,7 +1882,7 @@ div.cell.text_cell .cm-s-default span.cm-variable-3 {
  background: #e0e1e3;
 }
 div#maintoolbar {
- display: none !important;
+/* display: none !important; */
 }
 #header-container {
  display: none !important;
